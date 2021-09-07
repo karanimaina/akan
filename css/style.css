@@ -28,7 +28,7 @@
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/image/ghana.jpeg") top right;
+  background: url("/assets/ghana.jpeg") top right;
   background-size: cover;
   position: relative;
 }
