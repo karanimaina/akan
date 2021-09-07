@@ -16,6 +16,7 @@ the technologies used include
    <li>css</li>         
    <li>js</li>
 <ul>
+   
 ## Contact information
 you can reach me  via email karani.maina@gmail.com for any bugs encountered
 feel free to contribute 
