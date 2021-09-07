@@ -20,7 +20,8 @@ the technologies used include
 you can reach me  via email karani.maina@gmail.com for any bugs encountered
 feel free to contribute 
 you can fork, edit and generate content of the same
-#### license
+   
+## license
 MIT License
 
 Copyright (c) [2021] [Felix Maina]
